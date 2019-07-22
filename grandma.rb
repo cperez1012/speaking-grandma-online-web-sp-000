@@ -7,12 +7,12 @@ def speak_to_grandma(phrase)
     else
     return "HUH?! SPEAK UP, SONNY!"
   end
-  end
+end
 
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
 # unless you shout it (type in all capitals).
-#elsif phrase.shout
+
 
 
 # If you shout, she can hear you (or at least she thinks so)
