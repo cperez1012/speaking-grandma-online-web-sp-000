@@ -3,6 +3,9 @@ def speak_to_grandma(phrase)
   phrase = "I LOVE YOU GRANDMA!"
   return "I LOVE YOU TOO PUMPKIN!"
   end
+  if phrase = "Hi Nana, how are you?"
+    return "HUH?! SPEAK UP, SONNY!"
+  end
 
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
