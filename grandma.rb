@@ -1,7 +1,6 @@
 # Write a speak_to_grandma method.
 def speak_to_grandma(phrase)
-   "I LOVE YOU TOO PUMPKIN!"
-  phrase == "Hi Nana, how are you?"
+  phrase = "I LOVE YOU GRANDMA!"
   if false
   return "HUH?! SPEAK UP, SONNY!"
 end
